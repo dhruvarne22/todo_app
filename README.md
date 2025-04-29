@@ -60,7 +60,7 @@ dependencies:
   flutter:
     sdk: flutter
   sqflite: ^2.3.0
-  path_provider: ^2.0.15
+  path: ^1.9.1
 ```
 
 > Make sure to run `flutter pub get` after editing `pubspec.yaml`.
